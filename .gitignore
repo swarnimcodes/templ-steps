@@ -24,6 +24,9 @@ vendor/
 # Node modules (for Tailwind CSS)
 node_modules/
 
+# Generated CSS
+static/css/output.css
+
 # Build artifacts
 dist/
 build/
